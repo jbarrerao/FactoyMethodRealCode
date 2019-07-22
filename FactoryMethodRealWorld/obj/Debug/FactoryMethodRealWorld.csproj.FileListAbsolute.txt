@@ -1,0 +1,7 @@
+E:\Plan carrera\Gof\patternsCreation\FactoryMethod\FactoryMethodRealWorld\FactoryMethodRealWorld\FactoryMethodRealWorld\bin\Debug\FactoryMethodRealWorld.exe.config
+E:\Plan carrera\Gof\patternsCreation\FactoryMethod\FactoryMethodRealWorld\FactoryMethodRealWorld\FactoryMethodRealWorld\bin\Debug\FactoryMethodRealWorld.exe
+E:\Plan carrera\Gof\patternsCreation\FactoryMethod\FactoryMethodRealWorld\FactoryMethodRealWorld\FactoryMethodRealWorld\bin\Debug\FactoryMethodRealWorld.pdb
+E:\Plan carrera\Gof\patternsCreation\FactoryMethod\FactoryMethodRealWorld\FactoryMethodRealWorld\FactoryMethodRealWorld\obj\Debug\FactoryMethodRealWorld.csprojAssemblyReference.cache
+E:\Plan carrera\Gof\patternsCreation\FactoryMethod\FactoryMethodRealWorld\FactoryMethodRealWorld\FactoryMethodRealWorld\obj\Debug\FactoryMethodRealWorld.csproj.CoreCompileInputs.cache
+E:\Plan carrera\Gof\patternsCreation\FactoryMethod\FactoryMethodRealWorld\FactoryMethodRealWorld\FactoryMethodRealWorld\obj\Debug\FactoryMethodRealWorld.exe
+E:\Plan carrera\Gof\patternsCreation\FactoryMethod\FactoryMethodRealWorld\FactoryMethodRealWorld\FactoryMethodRealWorld\obj\Debug\FactoryMethodRealWorld.pdb
